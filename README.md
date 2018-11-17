@@ -12,5 +12,8 @@ or</br>
 	default width = 1000 height = 1000</br>
 </br>
 control:
-Use mouse to drag and move the fractol around the screen
-Use mouse to zoom
+Use mouse to drag and move the fractol around the screen.
+Use mouse to zoom in and out of the fractol (The zoom is infinity till the end of float precision).
+Point your mouse in the location that you wish to zoom.
+Use keyboard arrow (up, down, left, right) to move around the screen.
+Press 'c' to reset the screen.
