@@ -36,7 +36,7 @@ Burning ship
 
 <img src="https://github.com/juliantoyeo/42_fractol/blob/master/asset/burningship.png" width="640" height="400">
 
-<img src="https://github.com/juliantoyeo/42_fractol/blob/master/asset/burning_zoom.png" width="640" height="400">
+<img src="https://github.com/juliantoyeo/42_fractol/blob/master/asset/burning_zoom.gif" width="640" height="400">
 
 
 # Control
