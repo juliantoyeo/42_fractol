@@ -13,7 +13,7 @@ fractols :
 	Mandelbrot
 	Julia
 	Burning_ship
-or</br>
+or
 	./fractol [fractol] [width] [height]
 	default width = 1000 height = 1000
 ```
